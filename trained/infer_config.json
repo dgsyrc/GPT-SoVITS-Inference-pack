@@ -1,0 +1,13 @@
+{
+    "gpt_path": "Hutao\\hutao-e75.ckpt",
+    "sovits_path": "Hutao\\hutao_e60_s3360.pth",
+    "software_version": "1.1",
+    "简介": "这是一个配置文件适用于https://github.com/X-T-E-R/TTS-for-GPT-soVITS，是一个简单好用的前后端项目",
+    "emotion_list": {
+        "default": {
+            "ref_wav_path": "Hutao\\我说白术，你不会看不出来吧？难不成你师父，忘了教你这门功夫？.wav",
+            "prompt_text": "我说白术，你不会看不出来吧？难不成你师父，忘了教你这门功夫？",
+            "prompt_language": "多语种混合"
+        }
+    }
+}

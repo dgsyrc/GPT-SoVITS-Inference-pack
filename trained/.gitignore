@@ -1,0 +1,4 @@
+*
+!.gitignore
+!character_info.json
+!infer_config.json
