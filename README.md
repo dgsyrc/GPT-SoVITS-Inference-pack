@@ -9,6 +9,8 @@ Run `Pystand.exe` to check and install packages.
 
 Once all packages have been installed, launch the batch script  `start.bat` to start the local inference service for the model.
 
+Model Path is `trained/{modelname}`
+
 ## Environment 
 
 Python 3.11.8 embed
