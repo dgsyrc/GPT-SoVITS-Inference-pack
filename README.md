@@ -11,6 +11,8 @@ Once all packages have been installed, launch the batch script  `start.bat` to s
 
 Model Path is `trained/{modelname}`
 
+If you need pretrained model, you can download it from release.
+
 ## Environment 
 
 Python 3.11.8 embed
